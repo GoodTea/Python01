@@ -1,2 +1,2 @@
-str = set()
-print(len(str))
+st = "hello world"
+print(len(st))
